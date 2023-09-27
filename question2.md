@@ -19,13 +19,4 @@ For example, given array A such that:
   A[5] = 20
 the function should return 42.
 
-Solution :
-def amplitude(A)
-    if not A :
-    return ("Input A is an empty Array")
-    max_val=(A)
-    min_val=(A)
-amplitude = max_val - min_val
-return amplitude
-A = [10,2,44,15,20]
-print(result)
+
